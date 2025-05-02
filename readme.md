@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Iram Saba Khan
 ### 🌐 Portfolio
 
-Visit my personal portfolio: [iram.dev](https://my-portfolio-neat.onrender.com)
+Visit my personal portfolio: [iram.live](https://my-portfolio-neat.onrender.com)
 
 
 🎓 M.Tech (AI & Data Science) | 💻 Full-Stack Web Developer (MERN) | 🤖 AI/ML Enthusiast  
