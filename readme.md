@@ -47,7 +47,7 @@
 
 ### 🗂️ Featured Projects
 
-- 🧠 [Microlearning App](https://github.com/yourusername/microlearning-app)  
+- 🧠 [Microlearning App](https://mindsparkfrontend.onrender.com)  
   Real-time learning platform with chat, AI subtitles & gamification
 
 - 🔐 [Auth System](https://github.com/yourusername/auth-app)  
