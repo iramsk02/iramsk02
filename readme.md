@@ -60,7 +60,7 @@
 
 ### 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](www.linkedin.com/in/iram-saba-k-451712296)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/iram-saba-k-451712296)  
 📧 Email: **your.email@example.com**
 
 ---
