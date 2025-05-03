@@ -41,14 +41,14 @@ Visit my personal portfolio: [iram.live](https://my-portfolio-neat.onrender.com)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&style=flat)
 
 ---
-<!-- 
+
 ### 📈 GitHub Stats
 
 ![Iram's GitHub stats](https://github-readme-stats.vercel.app/api?username=iram-saba-khan&show_icons=true&theme=tokyonight&hide=issues)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iram-saba-khan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-  -->
+
 
 ### 🗂️ Featured Projects
 
