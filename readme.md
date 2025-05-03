@@ -44,8 +44,8 @@ Visit my personal portfolio: [iram.live](https://my-portfolio-neat.onrender.com)
 
 ### 📈 GitHub Stats
 
-![Iram's GitHub stats](https://github-readme-stats.vercel.app/api?username=iram-saba-khan&show_icons=true&theme=tokyonight&hide=issues)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iram-saba-khan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Iram's GitHub stats](https://github-readme-stats.vercel.app/api?username=iramsk02&show_icons=true&theme=tokyonight&hide=issues)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iramsk02&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
