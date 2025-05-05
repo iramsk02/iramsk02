@@ -1,8 +1,4 @@
 # 👋 Hi, I'm Iram Saba Khan
-### 🌐 Portfolio
-
-Visit my personal portfolio: [iram.live](https://my-portfolio-neat.onrender.com)
-
 
 🎓 M.Tech (AI & Data Science) | 💻 Full-Stack Web Developer (MERN) | 🤖 AI/ML Enthusiast  
 📍 Indore, India | 💡 Passionate about building smart web applications
