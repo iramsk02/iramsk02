@@ -23,6 +23,7 @@ Visit my personal portfolio: [iram.live](https://my-portfolio-neat.onrender.com/
 
 #### Frontend
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=flat) 
+![Nextjs](https://img.shields.io/badge/-Nextjs-black?logo=NextJs&style=flat) 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&style=flat)  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat) 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=flat) 
