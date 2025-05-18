@@ -13,7 +13,7 @@ Visit my personal portfolio: [iram.live](https://my-portfolio-neat.onrender.com/
 ### 🧠 About Me
 
 - 🌱 Currently learning advanced backend, real-time systems & AI integration  
-- 🔭 Working on a **Microlearning App** with WebSockets, AI subtitles, gamification & real-time chat  
+- 🔭 Working on a **Virtual Interviewer AI App**  
 - 🧑‍🏫 Interested in edtech, accessibility, and multilingual solutions for learners  
 - ✨ I love simplifying complex problems through clean code and modern UI/UX
 
