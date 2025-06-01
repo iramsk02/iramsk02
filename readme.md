@@ -4,10 +4,11 @@
 📍 Indore, India | 💡 Passionate about building smart web applications
 
 ---
+<!-- 
 ### 🌐 Portfolio
 
 Visit my personal portfolio: [iram.live](https://my-portfolio-neat.onrender.com/)
-
+  -->
 ---
 
 ### 🧠 About Me
