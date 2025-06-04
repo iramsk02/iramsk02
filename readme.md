@@ -4,13 +4,11 @@
 📍 Indore, India | 💡 Passionate about building smart web applications
 
 ---
-<!-- 
 ### 🌐 Portfolio
 
-Visit my personal portfolio: [iram.live](https://my-portfolio-neat.onrender.com/)
+Visit my personal portfolio: [iram.live](https://my-portfolio-gamma-snowy-79.vercel.app/)
 
 ---
-  -->
 ### 🧠 About Me
 
 - 🌱 Currently learning advanced backend, real-time systems & AI integration  
