@@ -49,11 +49,11 @@ Visit my personal portfolio: [iram.live]()
 
 ### 🧪 Libraries & Languages  
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&style=flat)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&style=flat)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat)  
-![C++ STL](https://img.shields.io/badge/-C++%20STL-blue?style=flat)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=flat)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&style=flat) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat)
+![C++ STL](https://img.shields.io/badge/-C++%20STL-blue?style=flat) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat)
 
 ### ⚙️ Tools & DevOps  
