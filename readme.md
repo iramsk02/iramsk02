@@ -19,28 +19,51 @@ Visit my personal portfolio: [iram.live]()
 - ✨ I love simplifying complex problems through clean code and modern UI/UX
 
 ---
+## 🔧 Tech Stack
 
-### 🔧 Tech Stack
-
-#### Frontend
-![React](https://img.shields.io/badge/-React-black?logo=react&style=flat) 
-![Nextjs](https://img.shields.io/badge/-Nextjs-black?logo=Next&style=flat) 
+### 🖥️ Frontend  
+![React](https://img.shields.io/badge/-React-black?logo=react&style=flat)  
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&style=flat)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat) 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=flat) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&style=flat)  
+![EJS](https://img.shields.io/badge/-EJS-black?logo=ejs&style=flat)
 
-#### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat) 
-![Express](https://img.shields.io/badge/-Express.js-black?logo=express&style=flat) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat)
+### 🛠️ Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat)  
+![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&style=flat)  
 
-#### Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat) 
+### 🧠 AI & ML  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102A43?style=flat)  
+![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-6A1B9A?style=flat)  
+![LSTM](https://img.shields.io/badge/-LSTM-0F9D58?style=flat)
+
+### 🗃️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&style=flat)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&style=flat)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=flat)
+
+### 🧪 Libraries & Languages  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&style=flat)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat)  
+![C++ STL](https://img.shields.io/badge/-C++%20STL-blue?style=flat)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=flat)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat)
+
+### ⚙️ Tools & DevOps  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&style=flat)  
-![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&style=flat) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&style=flat)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=flat)  
+![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&style=flat)  
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&style=flat)
 
 ---
