@@ -22,7 +22,7 @@ Visit my personal portfolio: [iram.live]()
 ## 🔧 Tech Stack
 
 ### 🖥️ Frontend  
-![React](https://img.shields.io/badge/-React-black?logo=react&style=flat)  
+![React](https://img.shields.io/badge/-React-black?logo=react&style=flat) 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&style=flat)  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat)  
