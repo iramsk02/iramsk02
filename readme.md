@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Iram Saba Khan
 
-🎓 M.Tech Integrated (AI & Data Science) | 💻 Full-Stack Web Developer (MERN) | 🤖 AI/ML Enthusiast  
+🎓  AI & Data Science student at DAVV | 💻 Full-Stack Web Developer (MERN) | 🤖 AI/ML Enthusiast  
 📍 Indore, India | 💡 Passionate about building smart web applications
 
 ---
