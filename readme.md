@@ -98,9 +98,4 @@ Echo is a full-stack microservices-based music player application built with sca
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/iram-saba-k-451712296)  
 📧 Email: **iramsabak@gmail.com**
 
----
-
-### ✨ Fun Fact
-
-> “The best way to learn is by building. So I build every day.” 🚀
 
