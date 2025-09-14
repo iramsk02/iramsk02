@@ -13,9 +13,9 @@ Visit my personal portfolio: [iram.live]()
 -->
 ### 🧠 About Me
 
-- 🌱 Currently learning advanced backend, real-time systems & AI integration  
+- 🌱 Currently learning advanced backend, Machine Learning, Deep Leaning, real-time systems & AI integration  
 - 🔭 Working on a **Virtual Interviewer AI App**  
-- 🧑‍🏫 Interested in edtech, accessibility, and multilingual solutions for learners  
+- 🧑‍🏫 Interested in AI&ML, edtech, accessibility, and multilingual solutions for learners  
 - ✨ I love simplifying complex problems through clean code and modern UI/UX
 
 ---
