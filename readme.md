@@ -19,6 +19,10 @@ Visit my personal portfolio: [iram.live]()
 - ✨ I love simplifying complex problems through clean code and modern UI/UX
 
 ---
+##  Badges
+
+[![iramsk02's Holopin board](https://holopin.io/api/user/board?user=iramsk02)](https://holopin.io/@iramsk02)
+---
 ## 🔧 Tech Stack
 
 ### 🖥️ Frontend  
