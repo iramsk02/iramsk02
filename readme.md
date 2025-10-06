@@ -21,8 +21,7 @@ Visit my personal portfolio: [iram.live]()
 ---
 ##  Badges
 
-[![iramsk02's Holopin board](https://holopin.io/api/user/board?user=iramsk02)](https://holopin.io/@iramsk02)
-
+[![An image of @iramsk02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iramsk02)](https://holopin.io/@iramsk02)
 ---
 ## 🔧 Tech Stack
 
