@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Iram Saba Khan
 
 🎓  AI & Data Science student at DAVV | 💻 Full-Stack Web Developer (MERN) | 🤖 AI/ML Enthusiast  
-📍 Indore, India | 💡 Passionate about building smart web applications
-
 ---
 <!-- 
 ### 🌐 Portfolio
@@ -13,10 +11,9 @@ Visit my personal portfolio: [iram.live]()
 -->
 ### 🧠 About Me
 
-- 🌱 Currently learning advanced backend, Machine Learning, Deep Leaning, real-time systems & AI integration  
-- 🔭 Working on a **Virtual Interviewer AI App**  
-- 🧑‍🏫 Interested in AI&ML, edtech, accessibility, and multilingual solutions for learners  
-- ✨ I love simplifying complex problems through clean code and modern UI/UX
+- 🌱 Currently learning advanced backend, Machine Learning, Deep Learning, real-time systems & AI integration  
+- 🧑‍🏫 Interested in AI&ML, edtech, accessibility
+- ✨ I love simplifying complex problems through clean code
 
 ---
 <!-- 
