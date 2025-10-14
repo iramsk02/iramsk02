@@ -46,34 +46,34 @@ Visit my personal portfolio: [iram.live]()
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&style=flat)  
 
 ### 🧠 AI & ML  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102A43?style=flat)  
-![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-6A1B9A?style=flat)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102A43?style=flat)
+![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-6A1B9A?style=flat)
 ![LSTM](https://img.shields.io/badge/-LSTM-0F9D58?style=flat)
 
 ### 🗃️ Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&style=flat)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=flat)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=flat)
 
 ### 🧪 Libraries & Languages  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&style=flat)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&style=flat) 
+![C](https://img.shields.io/badge/-C-00599C?logo=c&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-007396?logo=java&style=flat)
-![C++ STL](https://img.shields.io/badge/-C++%20STL-blue?style=flat) 
+![C++ STL](https://img.shields.io/badge/-C++%20STL-blue?style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat)
 
 ### ⚙️ Tools & DevOps  
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=flat)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=flat)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=flat)  
-![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&style=flat)  
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&style=flat)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&style=flat)
 
 ---
