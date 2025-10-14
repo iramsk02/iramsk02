@@ -42,7 +42,7 @@ Visit my personal portfolio: [iram.live]()
 ![EJS](https://img.shields.io/badge/-EJS-black?logo=ejs&style=flat)
 
 ### 🛠️ Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat)  
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&style=flat)  
 
 ### 🧠 AI & ML  
