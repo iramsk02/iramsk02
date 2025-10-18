@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Iram Saba Khan
 
 
-🎓  AI & Data Science student at DAVV | 💻 Full-Stack Web Developer (MERN) | 🤖 AI/ML Enthusiast  
+🎓  AI & Data Science student at DAVV | 💻 Full-Stack Web Developer | 🤖 AI/ML Enthusiast | DevOps 
 ---
 <!-- 
 ### 🌐 Portfolio
