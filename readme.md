@@ -2,8 +2,9 @@
 
 
 🎓  AI & Data Science student at DAVV | 💻 Full-Stack Web Developer | 🤖 AI/ML Enthusiast | DevOps 
-PS - I love Backend more
 ---
+PS - I love Backend more
+
 <!-- 
 ### 🌐 Portfolio
 
