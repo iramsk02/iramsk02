@@ -1,7 +1,7 @@
 # Hi, I'm Iram Saba Khan
 
 
-🎓  AI & Data Science student at DAVV | 💻 Full-Stack Web Developer | 🤖 AI/ML Enthusiast | DevOps 
+AI & Data Science student at DAVV | Full-Stack Web Developer | AI/ML Enthusiast | DevOps 
 ---
 PS - I love Backend more
 
@@ -12,11 +12,11 @@ Visit my personal portfolio: [iram.live]()
   
 ---
 -->
-### 🧠 About Me
+### About Me
 
-- 🌱 Currently learning advanced backend, Machine Learning, Deep Learning, real-time systems & AI integration  
-- 🧑‍🏫 Interested in AI&ML, edtech, accessibility
-- ✨ I love simplifying complex problems through clean code
+- Currently learning advanced backend, Machine Learning, Deep Learning, real-time systems & AI integration  
+- Interested in AI&ML, edtech, accessibility
+- I love simplifying complex problems through clean code
 
 ---
 <!-- 
