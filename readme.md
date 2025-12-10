@@ -30,7 +30,7 @@ Visit my personal portfolio: [iram.live]()
 
 ## 🔧 Tech Stack
 
-### 🖥️ Frontend  
+### Frontend  
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwind-css&style=flat)
@@ -41,22 +41,22 @@ Visit my personal portfolio: [iram.live]()
 ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma&style=flat)
 ![EJS](https://img.shields.io/badge/-EJS-black?logo=ejs&style=flat)
 
-### 🛠️ Backend  
+### Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&style=flat)  
 
-### 🧠 AI & ML  
+### AI & ML  
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102A43?style=flat)
 ![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-6A1B9A?style=flat)
 ![LSTM](https://img.shields.io/badge/-LSTM-0F9D58?style=flat)
 
-### 🗃️ Databases  
+### Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=flat)
 
-### 🧪 Libraries & Languages  
+### Libraries & Languages  
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
@@ -66,7 +66,7 @@ Visit my personal portfolio: [iram.live]()
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat)
 
-### ⚙️ Tools & DevOps  
+### Tools & DevOps  
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&style=flat)
@@ -78,7 +78,7 @@ Visit my personal portfolio: [iram.live]()
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 ![Iram's GitHub stats](https://github-readme-stats.vercel.app/api?username=iramsk02&show_icons=true&theme=tokyonight&hide=issues)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iramsk02&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
