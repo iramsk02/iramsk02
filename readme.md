@@ -1,4 +1,4 @@
-# Hi, I'm Iram Saba Khan
+# I'm Iram Saba Khan
 
 
 AI & Data Science student at DAVV | Full-Stack Web Developer | AI/ML Enthusiast | DevOps 
