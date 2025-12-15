@@ -3,7 +3,6 @@
 
 AI & Data Science student at DAVV | Full-Stack Web Developer | AI/ML Enthusiast | DevOps 
 ---
-PS - I love Backend more
 
 <!-- 
 ### 🌐 Portfolio
@@ -14,6 +13,7 @@ Visit my personal portfolio: [iram.live]()
 -->
 ### About Me
 
+- Though I'm a full-stack developer, I Enjoy Backend development.
 - Currently learning advanced backend, Machine Learning, Deep Learning, real-time systems & AI integration  
 - Interested in AI&ML, edtech, accessibility
 - I love simplifying complex problems through clean code
