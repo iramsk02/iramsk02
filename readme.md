@@ -13,7 +13,7 @@ Visit my personal portfolio: [iram.live]()
 -->
 ### About Me
 
-- Though I'm a full-stack developer, I Enjoy Backend development.
+- Though I'm a full-stack developer, I enjoy Backend development more.
 - Currently learning advanced backend, Machine Learning, Deep Learning, real-time systems & AI integration  
 - Interested in AI&ML, edtech, accessibility
 - I love simplifying complex problems through clean code
