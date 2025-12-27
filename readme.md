@@ -76,6 +76,7 @@ Visit my personal portfolio: [iram.live]()
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&style=flat)
 
 ---
+<!-- 
 
 ### GitHub Stats
 
@@ -83,6 +84,7 @@ Visit my personal portfolio: [iram.live]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iramsk02&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+  -->
 
 
 ### 🗂️ Featured Projects
