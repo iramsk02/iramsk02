@@ -45,8 +45,8 @@ Visit my personal portfolio: [iram.live]()
 
 ### AI & ML  
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102A43?style=flat)
-![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-6A1B9A?style=flat)
-![LSTM](https://img.shields.io/badge/-LSTM-0F9D58?style=flat)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Networks-6A1B9A?style=flat)
+![Gen AI](https://img.shields.io/badge/-GenAI-0F9D58?style=flat)
 
 ### Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat)
